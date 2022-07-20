@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffedad&height=300&section=header&text=welcome&fontSize=80&fontAlign=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffedad&height=300&section=header&text=welcome!&desc=Yunsoo's%20Github%20Profile&fontSize=70&fontAlign=80&descAlign=86&descAlignY=65&fontColor=ffffff)
 
 <div align=center>
+
 
 ### :four_leaf_clover: Tech Stacks :four_leaf_clover:
 
@@ -14,6 +15,7 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=MobX&logoColor=white"/> 
@@ -29,7 +31,8 @@
 <br/>
 <br/>
 
-<!--
+
+
 ### :pushpin: Problem Solving :pushpin:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sbfl124)](https://solved.ac/sbfl124) <img src="http://mazandi.herokuapp.com/api?handle=sbfl124&theme=warm"/>
@@ -39,7 +42,7 @@
 <br/>
 <br/>
 
--->
+
 
 <!--
 ----------------
