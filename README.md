@@ -29,7 +29,7 @@
 <br/>
 <br/>
 
-
+<!--
 ### :pushpin: Problem Solving :pushpin:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sbfl124)](https://solved.ac/sbfl124) <img src="http://mazandi.herokuapp.com/api?handle=sbfl124&theme=warm"/>
@@ -39,6 +39,7 @@
 <br/>
 <br/>
 
+-->
 ----------------
 
 
