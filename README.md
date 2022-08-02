@@ -42,12 +42,16 @@
 <br/>
 <br/>
 
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=nuuuri&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuuuri&layout=compact)](https://github.com/nuuuri/github-readme-stats)
+
 
 
 <!--
 ----------------
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=nuuuri&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuuuri&layout=compact)](https://github.com/nuuuri/github-readme-stats)
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=nuuuri&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuuuri&layout=compact)](https://github.com/nuuuri/github-readme-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nuuuri&row=1)](https://github.com/ryo-ma/github-profile-trophy)
