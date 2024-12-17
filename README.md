@@ -1,26 +1,25 @@
 <div align="center">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nuuuri&count_private=true&show_icons=true"/>
+  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=nuuuri&count_private=true&show_icons=true"/>
 
- <div>
-  
    ### ✨ Yunsoo Park ✨
- 
   <a href="https://github.com/nuuuri"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnuuuri&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
   <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a> 
-   ---
   
-   📧 **Email** sbfl125@gmail.com
+  ---
+    
+  <br/>
+  
+  📧 **Email** sbfl125@gmail.com
    
-   📝 **Blog** https://nuuuri.vercel.app/
+  📝 **Blog** https://nuuuri.vercel.app/
    
-   <br>
- </div>
- 
+  <br>
 </div>
   
  ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuuuri&layout=compact"/>
+<br/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuuuri&layout=compact"/>
 
 <div>
   
