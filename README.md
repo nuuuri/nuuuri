@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=nuuuri&count_private=true&show_icons=true"/>
+  <img align="right" width="60%" src="https://github-readme-stats-drab-iota-15.vercel.app/api?username=nuuuri&count_private=true&show_icons=true&hide=stars,contribs"/>
 
    ### ✨ Yunsoo Park ✨
   <a href="https://github.com/nuuuri"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnuuuri&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
@@ -7,10 +7,8 @@
   
   ---
     
-  <br/>
-  
   📧 **Email** sbfl125@gmail.com
-   
+  
   📝 **Blog** https://nuuuri.vercel.app/
    
   <br>
