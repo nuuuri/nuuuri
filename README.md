@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab CI/CD-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/GitLab CI/CD-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 </div>
